@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "By Megan Dettenmaier\nLANDFIRE provides 25+ national geo-spatial layers (e.g. vegetation, fuel, disturbance, etc.), databases, and ecological models that are available to the public for the U.S. and insular areas.\nOur direct connection to the LANDFIRE Program offers a comprehensive range of nationwide geospatial data products that reflect current and historic conditions. These products also include ecosystem dynamic models that can be used for conservation, fire planning, and land management decisions.\nLANDFIRE’s mission is to provide agency leaders and managers with a common “all-lands” data set of vegetation and wildland fire/fuels information for strategic fire and resource management planning and analysis.\n\n “Advancing conservation outcomes through collaborative ecosystem science”"
+  },
+  {
+    "objectID": "about.html#what-are-biophysical-settings-products",
+    "href": "about.html#what-are-biophysical-settings-products",
+    "title": "About",
+    "section": "What are Biophysical Settings Products?",
+    "text": "What are Biophysical Settings Products?\nA Biophysical Setting (BpS) is a concept that represents the vegetation that may have been dominant on the landscape prior to European colonization of North America and is based on both the current biophysical environment and an approximation of the historical disturbance regime.\nLANDFIRE collaborated with experts around the country to create a description and model for every BpS it mapped across the US.\nCheck out the vegetation modeling website to learn how to integrate BpS into your work.\n\nBiophysical Settings Resources\nVegetation dynamics models: a comprehensive set for natural resource assessment and planning in the United States. Kori Blankenship, Randy Swaty, Kimberly R. Hall, Sarah Hagen, Kelly Pohl, Ayn Shlisky Hunt, Jeannie Patton, Leonardo Frid, Jim Smith\n\n\n\n\n\nBpS Descriptions and Models information\nInformation about the BpS Spatial Data"
+  },
+  {
+    "objectID": "about.html#what-are-existing-vegetation-products",
+    "href": "about.html#what-are-existing-vegetation-products",
+    "title": "About",
+    "section": "What are Existing Vegetation Products",
+    "text": "What are Existing Vegetation Products\n‘LANDFIRE (LF) existing vegetation layers describe the following elements: Existing Vegetation Type (EVT), Existing Vegetation Canopy Cover (EVC), and Existing Vegetation Height (EVH). These layers are created using predictive landscape models based on extensive field-referenced data, satellite imagery and biophysical gradient layers using classification and regression trees.’ (from https://landfire.gov/vegetation.php)\n\nExisting Vegetation Resources\n\n\n\n\n\nExisting Vegetation Cover\nExisting Vegetation Height\nExisting Vegetation Type"
+  },
+  {
+    "objectID": "about.html#intersections-landfire-supports-certified-sustainable-forest-management",
+    "href": "about.html#intersections-landfire-supports-certified-sustainable-forest-management",
+    "title": "About",
+    "section": "Intersections: LANDFIRE Supports Certified Sustainable Forest Management",
+    "text": "Intersections: LANDFIRE Supports Certified Sustainable Forest Management\nIn 2022, members of the Conservation Data Lab used the Ataya Forest Tract near Knoxville, TN as an example landscape for conducting a comprehensive GIS analysis. They compared historical conditions to the current state of the forest while incorporating LANDFIRE’s departure and BpS data (among others). This tutorial provides procedures for forest managers to conduct (similar) analyses using LANDFIRE data.\nCheck out the guide.\n\n\n “Ataya is of conservation interest due to the relatively high connectivity, large average land parcel size and projected climate change resiliency.” \n\n\nMap by Keith Phelps"
+  },
+  {
+    "objectID": "comparing.html",
+    "href": "comparing.html",
+    "title": "Comparisons",
+    "section": "",
+    "text": "Outputs on this page compare “Past” conditions with “Present” conditions. Results here are intended for exploration and illumination of issues to explore further. As noted on the “Present” page there are differences in the classification scheme so direct comparisons should be viewed with caution."
+  },
+  {
+    "objectID": "comparing.html#summary",
+    "href": "comparing.html#summary",
+    "title": "Comparisons",
+    "section": "Summary",
+    "text": "Summary\nThere has not been broad whole conversion of ecosystems from one to another (explore circular chord diagram below). However, due to harvests, fire suppression and other management actions (in addtion to changes in natural processes) there have been some notable changes in succession classes (see “Succession classes for most dominant Biophysical Settings”) section below:\n\nPerhaps the most interesting broad-scale change is conversion of ‘conifer’ types to ‘hardwood’, presumably due to fire suppression.\nSome ecosystems have sizable over/under-representation of successin classes on the landscape today compared to modeled historic. For example:\n\nLaurentian-Acadian Northern Hardwoods Forest - Hemlock is missing succession class D\nClasses A-C under represented in the Boreal Jack Pine-Black Spruce Forest - Pine Barrens\nClass A and B under reprented in the Boreal Acidic Peatland Systems\n\n\nThese differences may or may not be ‘real’ on the ground and/or may not be a management priority."
+  },
+  {
+    "objectID": "comparing.html#looking-at-broad-changes-vegetation-conversion",
+    "href": "comparing.html#looking-at-broad-changes-vegetation-conversion",
+    "title": "Comparisons",
+    "section": "Looking at broad changes, vegetation conversion",
+    "text": "Looking at broad changes, vegetation conversion\nThis interactive ‘chord’ diagram allows you to explore changes on the landscape. To use: * Hover over the outer bands to see connections. For example, if you over over the dark green outer band of the “Past Conifer” group you can see that some is now mapped as converted, some hardwood, etc., and that the majority is still mapped as conifer. * Alternatively, if you hover over the orange outer band of “Hardwood” you can see what the present extent of hardwoods vegetation was historically. * The popups contain acres for the band."
+  },
+  {
+    "objectID": "comparing.html#succession-classes-for-most-dominant-biophysical-settings",
+    "href": "comparing.html#succession-classes-for-most-dominant-biophysical-settings",
+    "title": "Comparisons",
+    "section": "Succession classes for most dominant Biophysical Settings",
+    "text": "Succession classes for most dominant Biophysical Settings"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Monongahela National Forest LANDFIRE Demo, 2023",
+    "section": "",
+    "text": "In general we will use LANDFIRE products to:\n\nMap and summarize past and present ecosystems and ecosystem conditions\nExplore historical disturbance regimes\nSummarize patterns of change and management opportunities\nPresent maps of landscape-scale connectivity and resilient sites\n\nOutputs presented here are the tip of the iceberg of what can be done with these datasets and are intended to help begin brainstorming about appropriate questions that could be explored collaboratively."
+  },
+  {
+    "objectID": "index.html#interacting-with-this-web-report",
+    "href": "index.html#interacting-with-this-web-report",
+    "title": "Monongahela National Forest LANDFIRE Demo, 2023",
+    "section": "Interacting with this web report",
+    "text": "Interacting with this web report\nA few notes about using this report:\n\nAs of February 7, 2023 there has been no QAQC. This is a demo only.\nThis platform is web-hosted so you can simply share a link with collaborators for their review. https://rswaty.github.io/hiawatha2023/\nMaps and charts are intended to represent general patterns, and are almost always limited to most common types (e.g., ecosystems). You can use the “zoom” tool to take a closer look.\nAll maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty."
+  },
+  {
+    "objectID": "index.html#location-of-this-assessment",
+    "href": "index.html#location-of-this-assessment",
+    "title": "Monongahela National Forest LANDFIRE Demo, 2023",
+    "section": "Location of this assessment",
+    "text": "Location of this assessment\nMonongahela National Forest Boundary (file shared by Katy Shallows of The Nature Conservancy)."
+  },
+  {
+    "objectID": "interpretation.html#ecosystem-specific-observations",
+    "href": "interpretation.html#ecosystem-specific-observations",
+    "title": "Interpretation",
+    "section": "Ecosystem specific observations",
+    "text": "Ecosystem specific observations"
+  },
+  {
+    "objectID": "past.html",
+    "href": "past.html",
+    "title": "Past",
+    "section": "",
+    "text": "LANDFIRE’s Biophysical Settings (BpSs, aka “Historical Ecosystems”) represent “the vegetation system that may have been dominant on the landscape prior to Euro-American settlement and is based on both the current biophysical environment and an approximation of the historical disturbance regime.” (from https://landfire.gov/bps.php). We will use this data to explore the most prevalent BpSs in a chart and map, and also the historical disturbance data that are linked to the BpSs."
+  },
+  {
+    "objectID": "past.html#summary",
+    "href": "past.html#summary",
+    "title": "Past",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "past.html#chart-of-most-prevalent-biophysical-settings",
+    "href": "past.html#chart-of-most-prevalent-biophysical-settings",
+    "title": "Past",
+    "section": "Chart of most prevalent Biophysical Settings",
+    "text": "Chart of most prevalent Biophysical Settings"
+  },
+  {
+    "objectID": "past.html#map-of-most-prevalent-biophysical-settings",
+    "href": "past.html#map-of-most-prevalent-biophysical-settings",
+    "title": "Past",
+    "section": "Map of most prevalent Biophysical Settings",
+    "text": "Map of most prevalent Biophysical Settings"
+  },
+  {
+    "objectID": "past.html#chart-of-historic-annual-acres-burned-per-ecosystem",
+    "href": "past.html#chart-of-historic-annual-acres-burned-per-ecosystem",
+    "title": "Past",
+    "section": "Chart of historic annual acres burned per ecosystem",
+    "text": "Chart of historic annual acres burned per ecosystem"
+  },
+  {
+    "objectID": "past.html#simplified-map-of-historical-fire-regimes",
+    "href": "past.html#simplified-map-of-historical-fire-regimes",
+    "title": "Past",
+    "section": "Simplified map of historical fire regimes",
+    "text": "Simplified map of historical fire regimes"
+  },
+  {
+    "objectID": "past.html#all-historical-disturbances-per-ecosystem",
+    "href": "past.html#all-historical-disturbances-per-ecosystem",
+    "title": "Past",
+    "section": "All historical disturbances per ecosystem",
+    "text": "All historical disturbances per ecosystem\n\n\n\n\n\n\nSelect ecosystem"
+  },
+  {
+    "objectID": "past.html#data-table",
+    "href": "past.html#data-table",
+    "title": "Past",
+    "section": "Data table",
+    "text": "Data table\n\n\n\n\n \n  \n    ZONE \n    BPS_MODEL \n    BPS_NAME \n    GROUPVEG \n    FRI_REPLAC \n    FRI_MIXED \n    FRI_SURFAC \n    FRG_NEW \n    ACRES \n    REL_PERCENT \n  \n \n\n  \n    61 \n    13500_61 \n    Central and Southern Appalachian Spruce-Fir Forest \n    Conifer \n    834 \n    12,028 \n    NA \n    V-B \n    454,640 \n    26.6 \n  \n  \n    61 \n    13030_61_63_64_65_66 \n    Northeastern Interior Dry-Mesic Oak Forest \n    Hardwood \n    39 \n    24 \n    9 \n    I-B \n    350,800 \n    20.5 \n  \n  \n    61 \n    13700_53_61_62 \n    Appalachian (Hemlock-)Northern Hardwood Forest \n    Hardwood \n    1,036 \n    1,083 \n    NA \n    V-B \n    298,073 \n    17.5 \n  \n  \n    61 \n    13180_57_59_61 \n    Southern and Central Appalachian Cove Forest \n    Hardwood \n    994 \n    498 \n    100 \n    III-A \n    188,784 \n    11.1 \n  \n  \n    61 \n    13200_48_57_61 \n    Central and Southern Appalachian Montane Oak Forest \n    Hardwood \n    147 \n    95 \n    33 \n    I-C \n    126,209 \n    7.4 \n  \n  \n    61 \n    14720_61_62_63 \n    Central Interior and Appalachian Riparian Systems \n    Riparian \n    1,001 \n    NA \n    200 \n    III-B \n    107,942 \n    6.3 \n  \n  \n    61 \n    13690_60_61_63_64_65_66 \n    Central Appalachian Dry Oak-Pine Forest \n    Hardwood-Conifer \n    182 \n    463 \n    15 \n    I-B \n    100,688 \n    5.9 \n  \n  \n    61 \n    13770_60_61_63_64_65_66 \n    Central Appalachian Pine-Oak Rocky Woodland \n    Hardwood-Conifer \n    412 \n    384 \n    4,645 \n    III-B \n    18,171 \n    1.1 \n  \n  \n    61 \n    13170_57_61 \n    Allegheny-Cumberland Dry Oak Forest and Woodland \n    Hardwood \n    123 \n    59 \n    15 \n    I-B \n    15,608 \n    0.9 \n  \n  \n    61 \n    14710_47_48_53_54_57_59_60_61_63 \n    Central Interior and Appalachian Floodplain Systems \n    Riparian \n    613 \n    392 \n    121 \n    III-A \n    15,857 \n    0.9 \n  \n  \n    NA \n    NA \n    Open Water \n    Open Water \n    NA \n    NA \n    NA \n    NA \n    10,904 \n    0.6 \n  \n  \n    61 \n    13210_61_63 \n    South-Central Interior Mesophytic Forest \n    Hardwood \n    847 \n    573 \n    102 \n    III-A \n    10,729 \n    0.6 \n  \n  \n    61 \n    14790_60_61_63_64_65_66 \n    Central Interior and Appalachian Swamp Systems \n    Riparian \n    1,011 \n    NA \n    1,353 \n    V-B \n    5,031 \n    0.3 \n  \n  \n    61 \n    13760_48_53_57_61 \n    Southern Ridge and Valley/Cumberland Dry Calcareous Forest \n    Hardwood \n    187 \n    109 \n    8 \n    I-B \n    1,657 \n    0.1 \n  \n  \n    61 \n    14000_60_61 \n    Central Appalachian Alkaline Glade and Woodland \n    Savanna \n    5 \n    19 \n    1,583 \n    II-A \n    1,123 \n    0.1 \n  \n  \n    NA \n    NA \n    Barren-Rock/Sand/Clay \n    Barren-Rock/Sand/Clay \n    NA \n    NA \n    NA \n    NA \n    0 \n    0.0 \n  \n  \n    61 \n    13150_48_53_57_59_61 \n    Southern Appalachian Oak Forest \n    Hardwood \n    604 \n    138 \n    16 \n    I-B \n    127 \n    0.0 \n  \n  \n    61 \n    13400_61 \n    Appalachian Shale Barrens \n    Hardwood \n    NA \n    1,025 \n    NA \n    V-B \n    275 \n    0.0 \n  \n  \n    61 \n    13520_53_54_57_59_60_61 \n    Southern Appalachian Montane Pine Forest and Woodland \n    Conifer \n    88 \n    101 \n    5 \n    I-A \n    687 \n    0.0"
+  },
+  {
+    "objectID": "present.html",
+    "href": "present.html",
+    "title": "Present",
+    "section": "",
+    "text": "All outputs on this page generated with the most recent LANDFIRE Existing Vegetation Type, Cover and Height datasets, which represent conditions on the ground in 2020."
+  },
+  {
+    "objectID": "present.html#summary",
+    "href": "present.html#summary",
+    "title": "Present",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "present.html#chart-of-most-prevalent-existing-vegetation-types",
+    "href": "present.html#chart-of-most-prevalent-existing-vegetation-types",
+    "title": "Present",
+    "section": "Chart of most prevalent Existing Vegetation Types",
+    "text": "Chart of most prevalent Existing Vegetation Types"
+  },
+  {
+    "objectID": "present.html#map-of-most-prevalent-existing-vegetation-types",
+    "href": "present.html#map-of-most-prevalent-existing-vegetation-types",
+    "title": "Present",
+    "section": "Map of most prevalent Existing Vegetation Types",
+    "text": "Map of most prevalent Existing Vegetation Types"
+  },
+  {
+    "objectID": "present.html#chart-of-existing-vegetation-cover",
+    "href": "present.html#chart-of-existing-vegetation-cover",
+    "title": "Present",
+    "section": "Chart of Existing Vegetation Cover",
+    "text": "Chart of Existing Vegetation Cover"
+  },
+  {
+    "objectID": "present.html#map-of-existing-vegetation-cover",
+    "href": "present.html#map-of-existing-vegetation-cover",
+    "title": "Present",
+    "section": "Map of Existing Vegetation Cover",
+    "text": "Map of Existing Vegetation Cover"
+  },
+  {
+    "objectID": "present.html#chart-of-existing-vegetation-height",
+    "href": "present.html#chart-of-existing-vegetation-height",
+    "title": "Present",
+    "section": "Chart of Existing Vegetation Height",
+    "text": "Chart of Existing Vegetation Height"
+  },
+  {
+    "objectID": "present.html#map-of-existing-vegetation-height",
+    "href": "present.html#map-of-existing-vegetation-height",
+    "title": "Present",
+    "section": "Map of Existing Vegetation Height",
+    "text": "Map of Existing Vegetation Height"
+  },
+  {
+    "objectID": "rcn.html",
+    "href": "rcn.html",
+    "title": "Looking forward",
+    "section": "",
+    "text": "There are many ways to explore what a landscape might look like in the future. Below are maps of datasets produced by the Center for Resilient Conservation Science that help us assess “the stage” so to speak, or the potential of a landscape to cope with climate change. Exploring places where resiliency, connectivity and management opportunities line up may help hedge against climate stressors."
+  },
+  {
+    "objectID": "rcn.html#resilient-sites",
+    "href": "rcn.html#resilient-sites",
+    "title": "Looking forward",
+    "section": "Resilient Sites",
+    "text": "Resilient Sites\n“A site’s Resilience Score estimates its capacity to maintain species diversity and ecological function as the climate changes. It was determined by evaluating and quantifying physical characteristics that foster resilience, particularly the site’s landscape diversity and local connectedness. The score is calculated within ecoregions based on all cells of the same geophysical setting and is described on a relative basis as above or below the average.” From https://maps.tnc.org/resilientland/coreConcepts.html."
+  },
+  {
+    "objectID": "rcn.html#connectivity",
+    "href": "rcn.html#connectivity",
+    "title": "Looking forward",
+    "section": "Connectivity",
+    "text": "Connectivity\n“Refers to the degree of fragmentation and strength of barriers that create resistance to movement within a landscape. A highly connected landscape promotes resilience by allowing species to move through the landscape and find suitable microclimates where they can persist. In this study, we calculate local connectedness by measuring the amount and configuration of human-created barriers like major roads, development, energy infrastructure, and industrial farming and forestry land.” From https://maps.tnc.org/resilientland/coreConcepts.html."
+  }
+]

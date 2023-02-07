@@ -1,0 +1,162 @@
+"","TransitionGroupID","Model_Code","annual_probability","BpS_Name","VALUE","ACRES","REL_PERCENT","annual_dist_acres"
+"1","All Fire","13030_61_63_64_65_66",0.1843418,"Northeastern Interior Dry-Mesic Oak Forest",1870,350800,20.5,64667.10344
+"2","All Fire","13150_48_53_57_59_61",0.0723582,"Southern Appalachian Oak Forest",1871,127,0,9.1894914
+"3","All Fire","13170_57_61",0.0927246,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,15608,0.9,1447.2455568
+"4","All Fire","13180_57_59_61",0.0129224,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,2439.5423616
+"5","All Fire","13200_48_57_61",0.048844,"Central and Southern Appalachian Montane Oak Forest",1875,126209,7.4,6164.552396
+"6","All Fire","13210_61_63",0.0128164,"South-Central Interior Mesophytic Forest",1876,10729,0.6,137.5071556
+"7","All Fire","13400_61",0.0009484,"Appalachian Shale Barrens",1877,275,0,0.26081
+"8","All Fire","13500_61",0.001283,"Central and Southern Appalachian Spruce-Fir Forest",1878,454640,26.6,583.30312
+"9","All Fire","13520_53_54_57_59_60_61",0.2079842,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,142.8851454
+"10","All Fire","13690_60_61_63_64_65_66",0.072849,"Central Appalachian Dry Oak-Pine Forest",1882,100688,5.9,7335.020112
+"11","All Fire","13700_53_61_62",0.0018756,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,298073,17.5,559.0657188
+"12","All Fire","13760_48_53_57_61",0.141272,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,1657,0.1,234.087704
+"13","All Fire","13770_60_61_63_64_65_66",0.0054236,"Central Appalachian Pine-Oak Rocky Woodland",1885,18171,1.1,98.5522356
+"14","All Fire","14000_60_61",0.2635686,"Central Appalachian Alkaline Glade and Woodland",1886,1123,0.1,295.9875378
+"15","All Fire","14710_47_48_53_54_57_59_60_61_63",0.0126628,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,200.7940196
+"16","All Fire","14720_61_62_63",0.0060214,"Central Interior and Appalachian Riparian Systems",1888,107942,6.3,649.9619588
+"17","All Fire","14790_60_61_63_64_65_66",0.0017616,"Central Interior and Appalachian Swamp Systems",1889,5031,0.3,8.8626096
+"18","All Transitions","13030_61_63_64_65_66",0.1940468,"Northeastern Interior Dry-Mesic Oak Forest",1870,350800,20.5,68071.61744
+"19","All Transitions","13150_48_53_57_59_61",0.0877014,"Southern Appalachian Oak Forest",1871,127,0,11.1380778
+"20","All Transitions","13170_57_61",0.1129456,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,15608,0.9,1762.8549248
+"21","All Transitions","13180_57_59_61",0.0308342,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,5821.0036128
+"22","All Transitions","13200_48_57_61",0.0691116,"Central and Southern Appalachian Montane Oak Forest",1875,126209,7.4,8722.5059244
+"23","All Transitions","13210_61_63",0.019996,"South-Central Interior Mesophytic Forest",1876,10729,0.6,214.537084
+"24","All Transitions","13400_61",0.0200074,"Appalachian Shale Barrens",1877,275,0,5.502035
+"25","All Transitions","13500_61",0.0090722,"Central and Southern Appalachian Spruce-Fir Forest",1878,454640,26.6,4124.585008
+"26","All Transitions","13520_53_54_57_59_60_61",0.223188,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,153.330156
+"27","All Transitions","13690_60_61_63_64_65_66",0.1013044,"Central Appalachian Dry Oak-Pine Forest",1882,100688,5.9,10200.1374272
+"28","All Transitions","13700_53_61_62",0.015701,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,298073,17.5,4680.044173
+"29","All Transitions","13760_48_53_57_61",0.1531132,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,1657,0.1,253.7085724
+"30","All Transitions","13770_60_61_63_64_65_66",0.180852,"Central Appalachian Pine-Oak Rocky Woodland",1885,18171,1.1,3286.261692
+"31","All Transitions","14000_60_61",0.2635702,"Central Appalachian Alkaline Glade and Woodland",1886,1123,0.1,295.9893346
+"32","All Transitions","14710_47_48_53_54_57_59_60_61_63",0.0349912,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,554.8554584
+"33","All Transitions","14720_61_62_63",0.024128,"Central Interior and Appalachian Riparian Systems",1888,107942,6.3,2604.424576
+"34","All Transitions","14790_60_61_63_64_65_66",0.0098428,"Central Interior and Appalachian Swamp Systems",1889,5031,0.3,49.5191268
+"35","Alternative Succession","13030_61_63_64_65_66",0.0058588,"Northeastern Interior Dry-Mesic Oak Forest",1870,350800,20.5,2055.26704
+"36","Alternative Succession","13150_48_53_57_59_61",0.0078728,"Southern Appalachian Oak Forest",1871,127,0,0.9998456
+"37","Alternative Succession","13170_57_61",0.0132624,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,15608,0.9,206.9995392
+"38","Alternative Succession","13180_57_59_61",0.007645,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,1443.25368
+"39","Alternative Succession","13200_48_57_61",0.0145444,"Central and Southern Appalachian Montane Oak Forest",1875,126209,7.4,1835.6341796
+"40","Alternative Succession","13210_61_63",0.0006494,"South-Central Interior Mesophytic Forest",1876,10729,0.6,6.9674126
+"41","Alternative Succession","13520_53_54_57_59_60_61",0.0030694,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,2.1086778
+"42","Alternative Succession","13690_60_61_63_64_65_66",0.004916,"Central Appalachian Dry Oak-Pine Forest",1882,100688,5.9,494.982208
+"43","Alternative Succession","13700_53_61_62",0.0064364,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,298073,17.5,1918.5170572
+"44","Alternative Succession","13760_48_53_57_61",0.0059874,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,1657,0.1,9.9211218
+"45","Alternative Succession","13770_60_61_63_64_65_66",0.082064,"Central Appalachian Pine-Oak Rocky Woodland",1885,18171,1.1,1491.184944
+"46","Alternative Succession","14000_60_61",2.67e-06,"Central Appalachian Alkaline Glade and Woodland",1886,1123,0.1,0.00299841
+"47","Alternative Succession","14710_47_48_53_54_57_59_60_61_63",0.0083988,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,133.1797716
+"48","Insect or Disease","13150_48_53_57_59_61",0.0013332,"Southern Appalachian Oak Forest",1871,127,0,0.1693164
+"49","Insect or Disease","13170_57_61",0.0027966,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,15608,0.9,43.6493328
+"50","Insect or Disease","13180_57_59_61",0.0038112,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,719.4935808
+"51","Insect or Disease","13200_48_57_61",0.0020006,"Central and Southern Appalachian Montane Oak Forest",1875,126209,7.4,252.4937254
+"52","Insect or Disease","13210_61_63",0.0024756,"South-Central Interior Mesophytic Forest",1876,10729,0.6,26.5607124
+"53","Insect or Disease","13500_61",0.0039008,"Central and Southern Appalachian Spruce-Fir Forest",1878,454640,26.6,1773.459712
+"54","Insect or Disease","13520_53_54_57_59_60_61",0.0108874,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,7.4796438
+"55","Insect or Disease","13760_48_53_57_61",0.0004254,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,1657,0.1,0.7048878
+"56","Insect or Disease","13770_60_61_63_64_65_66",0.007502,"Central Appalachian Pine-Oak Rocky Woodland",1885,18171,1.1,136.318842
+"57","Insect or Disease","14710_47_48_53_54_57_59_60_61_63",0.0030758,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,48.7729606
+"58","Mixed Fire","13030_61_63_64_65_66",0.0422056,"Northeastern Interior Dry-Mesic Oak Forest",1870,350800,20.5,14805.72448
+"59","Mixed Fire","13150_48_53_57_59_61",0.007214,"Southern Appalachian Oak Forest",1871,127,0,0.916178
+"60","Mixed Fire","13170_57_61",0.0171002,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,15608,0.9,266.8999216
+"61","Mixed Fire","13180_57_59_61",0.0019828,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,374.3209152
+"62","Mixed Fire","13200_48_57_61",0.010776,"Central and Southern Appalachian Montane Oak Forest",1875,126209,7.4,1360.028184
+"63","Mixed Fire","13210_61_63",0.0017656,"South-Central Interior Mesophytic Forest",1876,10729,0.6,18.9431224
+"64","Mixed Fire","13400_61",0.0009484,"Appalachian Shale Barrens",1877,275,0,0.26081
+"65","Mixed Fire","13500_61",7.72e-05,"Central and Southern Appalachian Spruce-Fir Forest",1878,454640,26.6,35.098208
+"66","Mixed Fire","13520_53_54_57_59_60_61",0.01004,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,6.89748
+"67","Mixed Fire","13690_60_61_63_64_65_66",0.0021676,"Central Appalachian Dry Oak-Pine Forest",1882,100688,5.9,218.2513088
+"68","Mixed Fire","13700_53_61_62",0.0008802,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,298073,17.5,262.3638546
+"69","Mixed Fire","13760_48_53_57_61",0.0090156,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,1657,0.1,14.9388492
+"70","Mixed Fire","13770_60_61_63_64_65_66",0.0026694,"Central Appalachian Pine-Oak Rocky Woodland",1885,18171,1.1,48.5056674
+"71","Mixed Fire","14000_60_61",0.0545302,"Central Appalachian Alkaline Glade and Woodland",1886,1123,0.1,61.2374146
+"72","Mixed Fire","14710_47_48_53_54_57_59_60_61_63",0.0025526,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,40.4765782
+"73","Non Fire Disturbances","13030_61_63_64_65_66",0.0038462,"Northeastern Interior Dry-Mesic Oak Forest",1870,350800,20.5,1349.24696
+"74","Non Fire Disturbances","13150_48_53_57_59_61",0.0074704,"Southern Appalachian Oak Forest",1871,127,0,0.9487408
+"75","Non Fire Disturbances","13170_57_61",0.0069586,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,15608,0.9,108.6098288
+"76","Non Fire Disturbances","13180_57_59_61",0.0102668,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,1938.2075712
+"77","Non Fire Disturbances","13200_48_57_61",0.0057232,"Central and Southern Appalachian Montane Oak Forest",1875,126209,7.4,722.3193488
+"78","Non Fire Disturbances","13210_61_63",0.0065302,"South-Central Interior Mesophytic Forest",1876,10729,0.6,70.0625158
+"79","Non Fire Disturbances","13400_61",0.019059,"Appalachian Shale Barrens",1877,275,0,5.241225
+"80","Non Fire Disturbances","13500_61",0.0077892,"Central and Southern Appalachian Spruce-Fir Forest",1878,454640,26.6,3541.281888
+"81","Non Fire Disturbances","13520_53_54_57_59_60_61",0.0121344,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,8.3363328
+"82","Non Fire Disturbances","13690_60_61_63_64_65_66",0.0235394,"Central Appalachian Dry Oak-Pine Forest",1882,100688,5.9,2370.1351072
+"83","Non Fire Disturbances","13700_53_61_62",0.007389,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,298073,17.5,2202.461397
+"84","Non Fire Disturbances","13760_48_53_57_61",0.0058538,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,1657,0.1,9.6997466
+"85","Non Fire Disturbances","13770_60_61_63_64_65_66",0.0933644,"Central Appalachian Pine-Oak Rocky Woodland",1885,18171,1.1,1696.5245124
+"86","Non Fire Disturbances","14710_47_48_53_54_57_59_60_61_63",0.0139296,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,220.8816672
+"87","Non Fire Disturbances","14720_61_62_63",0.0181066,"Central Interior and Appalachian Riparian Systems",1888,107942,6.3,1954.4626172
+"88","Non Fire Disturbances","14790_60_61_63_64_65_66",0.0080812,"Central Interior and Appalachian Swamp Systems",1889,5031,0.3,40.6565172
+"89","Non Replacement Fire","13030_61_63_64_65_66",0.1578896,"Northeastern Interior Dry-Mesic Oak Forest",1870,350800,20.5,55387.67168
+"90","Non Replacement Fire","13150_48_53_57_59_61",0.0706966,"Southern Appalachian Oak Forest",1871,127,0,8.9784682
+"91","Non Replacement Fire","13170_57_61",0.0844942,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,15608,0.9,1318.7854736
+"92","Non Replacement Fire","13180_57_59_61",0.0119342,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,2252.9860128
+"93","Non Replacement Fire","13200_48_57_61",0.0418586,"Central and Southern Appalachian Montane Oak Forest",1875,126209,7.4,5282.9320474
+"94","Non Replacement Fire","13210_61_63",0.011596,"South-Central Interior Mesophytic Forest",1876,10729,0.6,124.413484
+"95","Non Replacement Fire","13400_61",0.0009484,"Appalachian Shale Barrens",1877,275,0,0.26081
+"96","Non Replacement Fire","13500_61",7.72e-05,"Central and Southern Appalachian Spruce-Fir Forest",1878,454640,26.6,35.098208
+"97","Non Replacement Fire","13520_53_54_57_59_60_61",0.19648,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,134.98176
+"98","Non Replacement Fire","13690_60_61_63_64_65_66",0.06733,"Central Appalachian Dry Oak-Pine Forest",1882,100688,5.9,6779.32304
+"99","Non Replacement Fire","13700_53_61_62",0.0008802,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,298073,17.5,262.3638546
+"100","Non Replacement Fire","13760_48_53_57_61",0.1359896,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,1657,0.1,225.3347672
+"101","Non Replacement Fire","13770_60_61_63_64_65_66",0.0028944,"Central Appalachian Pine-Oak Rocky Woodland",1885,18171,1.1,52.5941424
+"102","Non Replacement Fire","14000_60_61",0.0551842,"Central Appalachian Alkaline Glade and Woodland",1886,1123,0.1,61.9718566
+"103","Non Replacement Fire","14710_47_48_53_54_57_59_60_61_63",0.011024,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,174.807568
+"104","Non Replacement Fire","14720_61_62_63",0.00502,"Central Interior and Appalachian Riparian Systems",1888,107942,6.3,541.86884
+"105","Non Replacement Fire","14790_60_61_63_64_65_66",0.0007632,"Central Interior and Appalachian Swamp Systems",1889,5031,0.3,3.8396592
+"106","Optional 1","13180_57_59_61",0.0018376,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,346.9094784
+"107","Optional 1","13400_61",0.019059,"Appalachian Shale Barrens",1877,275,0,5.241225
+"108","Optional 1","13520_53_54_57_59_60_61",0.0003536,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,0.2429232
+"109","Optional 1","14710_47_48_53_54_57_59_60_61_63",0.0032176,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,51.0214832
+"110","Optional 1","14720_61_62_63",0.0030236,"Central Interior and Appalachian Riparian Systems",1888,107942,6.3,326.3734312
+"111","Optional 2","14720_61_62_63",0.0100842,"Central Interior and Appalachian Riparian Systems",1888,107942,6.3,1088.5087164
+"112","Optional Types","13180_57_59_61",0.0018376,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,346.9094784
+"113","Optional Types","13400_61",0.019059,"Appalachian Shale Barrens",1877,275,0,5.241225
+"114","Optional Types","13520_53_54_57_59_60_61",0.0003536,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,0.2429232
+"115","Optional Types","14710_47_48_53_54_57_59_60_61_63",0.0032176,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,51.0214832
+"116","Optional Types","14720_61_62_63",0.0131078,"Central Interior and Appalachian Riparian Systems",1888,107942,6.3,1414.8821476
+"117","Replacement Fire","13030_61_63_64_65_66",0.0264522,"Northeastern Interior Dry-Mesic Oak Forest",1870,350800,20.5,9279.43176
+"118","Replacement Fire","13150_48_53_57_59_61",0.0016616,"Southern Appalachian Oak Forest",1871,127,0,0.2110232
+"119","Replacement Fire","13170_57_61",0.0082304,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,15608,0.9,128.4600832
+"120","Replacement Fire","13180_57_59_61",0.0009882,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,186.5563488
+"121","Replacement Fire","13200_48_57_61",0.0069854,"Central and Southern Appalachian Montane Oak Forest",1875,126209,7.4,881.6203486
+"122","Replacement Fire","13210_61_63",0.0012204,"South-Central Interior Mesophytic Forest",1876,10729,0.6,13.0936716
+"123","Replacement Fire","13500_61",0.0012058,"Central and Southern Appalachian Spruce-Fir Forest",1878,454640,26.6,548.204912
+"124","Replacement Fire","13520_53_54_57_59_60_61",0.0115042,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,7.9033854
+"125","Replacement Fire","13690_60_61_63_64_65_66",0.005519,"Central Appalachian Dry Oak-Pine Forest",1882,100688,5.9,555.697072
+"126","Replacement Fire","13700_53_61_62",0.0009954,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,298073,17.5,296.7018642
+"127","Replacement Fire","13760_48_53_57_61",0.0052824,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,1657,0.1,8.7529368
+"128","Replacement Fire","13770_60_61_63_64_65_66",0.0025292,"Central Appalachian Pine-Oak Rocky Woodland",1885,18171,1.1,45.9580932
+"129","Replacement Fire","14000_60_61",0.2083844,"Central Appalachian Alkaline Glade and Woodland",1886,1123,0.1,234.0156812
+"130","Replacement Fire","14710_47_48_53_54_57_59_60_61_63",0.0016388,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,25.9864516
+"131","Replacement Fire","14720_61_62_63",0.0010014,"Central Interior and Appalachian Riparian Systems",1888,107942,6.3,108.0931188
+"132","Replacement Fire","14790_60_61_63_64_65_66",0.0009984,"Central Interior and Appalachian Swamp Systems",1889,5031,0.3,5.0229504
+"133","Surface Fire","13030_61_63_64_65_66",0.115684,"Northeastern Interior Dry-Mesic Oak Forest",1870,350800,20.5,40581.9472
+"134","Surface Fire","13150_48_53_57_59_61",0.0634826,"Southern Appalachian Oak Forest",1871,127,0,8.0622902
+"135","Surface Fire","13170_57_61",0.067394,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,15608,0.9,1051.885552
+"136","Surface Fire","13180_57_59_61",0.0099514,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,1878.6650976
+"137","Surface Fire","13200_48_57_61",0.0310826,"Central and Southern Appalachian Montane Oak Forest",1875,126209,7.4,3922.9038634
+"138","Surface Fire","13210_61_63",0.0098304,"South-Central Interior Mesophytic Forest",1876,10729,0.6,105.4703616
+"139","Surface Fire","13520_53_54_57_59_60_61",0.18644,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,128.08428
+"140","Surface Fire","13690_60_61_63_64_65_66",0.0651624,"Central Appalachian Dry Oak-Pine Forest",1882,100688,5.9,6561.0717312
+"141","Surface Fire","13760_48_53_57_61",0.126974,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,1657,0.1,210.395918
+"142","Surface Fire","13770_60_61_63_64_65_66",0.000225,"Central Appalachian Pine-Oak Rocky Woodland",1885,18171,1.1,4.088475
+"143","Surface Fire","14000_60_61",0.000654,"Central Appalachian Alkaline Glade and Woodland",1886,1123,0.1,0.734442
+"144","Surface Fire","14710_47_48_53_54_57_59_60_61_63",0.0084714,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,134.3309898
+"145","Surface Fire","14720_61_62_63",0.00502,"Central Interior and Appalachian Riparian Systems",1888,107942,6.3,541.86884
+"146","Surface Fire","14790_60_61_63_64_65_66",0.0007632,"Central Interior and Appalachian Swamp Systems",1889,5031,0.3,3.8396592
+"147","Wind or Weather or Stress","13030_61_63_64_65_66",0.0038462,"Northeastern Interior Dry-Mesic Oak Forest",1870,350800,20.5,1349.24696
+"148","Wind or Weather or Stress","13150_48_53_57_59_61",0.0061372,"Southern Appalachian Oak Forest",1871,127,0,0.7794244
+"149","Wind or Weather or Stress","13170_57_61",0.004162,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,15608,0.9,64.960496
+"150","Wind or Weather or Stress","13180_57_59_61",0.004618,"Southern and Central Appalachian Cove Forest",1874,188784,11.1,871.804512
+"151","Wind or Weather or Stress","13200_48_57_61",0.0037226,"Central and Southern Appalachian Montane Oak Forest",1875,126209,7.4,469.8256234
+"152","Wind or Weather or Stress","13210_61_63",0.0040546,"South-Central Interior Mesophytic Forest",1876,10729,0.6,43.5018034
+"153","Wind or Weather or Stress","13500_61",0.0038884,"Central and Southern Appalachian Spruce-Fir Forest",1878,454640,26.6,1767.822176
+"154","Wind or Weather or Stress","13520_53_54_57_59_60_61",0.0008934,"Southern Appalachian Montane Pine Forest and Woodland",1879,687,0,0.6137658
+"155","Wind or Weather or Stress","13690_60_61_63_64_65_66",0.0235394,"Central Appalachian Dry Oak-Pine Forest",1882,100688,5.9,2370.1351072
+"156","Wind or Weather or Stress","13700_53_61_62",0.007389,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,298073,17.5,2202.461397
+"157","Wind or Weather or Stress","13760_48_53_57_61",0.0054284,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,1657,0.1,8.9948588
+"158","Wind or Weather or Stress","13770_60_61_63_64_65_66",0.0858624,"Central Appalachian Pine-Oak Rocky Woodland",1885,18171,1.1,1560.2056704
+"159","Wind or Weather or Stress","14710_47_48_53_54_57_59_60_61_63",0.0076362,"Central Interior and Appalachian Floodplain Systems",1887,15857,0.9,121.0872234
+"160","Wind or Weather or Stress","14720_61_62_63",0.0049988,"Central Interior and Appalachian Riparian Systems",1888,107942,6.3,539.5804696
+"161","Wind or Weather or Stress","14790_60_61_63_64_65_66",0.0080812,"Central Interior and Appalachian Swamp Systems",1889,5031,0.3,40.6565172

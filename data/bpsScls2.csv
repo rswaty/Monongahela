@@ -1,0 +1,171 @@
+"","model_label","Model_Code","refLabel","refPercent","BpS_Name","Var1","Var2","Freq","BPS_CODE","ZONE","total_count","currentPercent"
+"1","13030_61_63_64_65_66_A","13030_61_63_64_65_66","A",4,"Northeastern Interior Dry-Mesic Oak Forest",1870,1,223,13030,61,1577375,0
+"2","13030_61_63_64_65_66_B","13030_61_63_64_65_66","B",22,"Northeastern Interior Dry-Mesic Oak Forest",1870,2,6,13030,61,1577375,0
+"3","13030_61_63_64_65_66_C","13030_61_63_64_65_66","C",49,"Northeastern Interior Dry-Mesic Oak Forest",1870,3,164334,13030,61,1577375,10
+"4","13030_61_63_64_65_66_D","13030_61_63_64_65_66","D",18,"Northeastern Interior Dry-Mesic Oak Forest",1870,4,469409,13030,61,1577375,29
+"5","13030_61_63_64_65_66_E","13030_61_63_64_65_66","E",7,"Northeastern Interior Dry-Mesic Oak Forest",1870,5,684896,13030,61,1577375,43
+"6","13030_61_63_64_65_66_Agriculture","13030_61_63_64_65_66","Agriculture",0,"Northeastern Interior Dry-Mesic Oak Forest",1870,180,128485,13030,61,1577375,8
+"7","13030_61_63_64_65_66_Developed","13030_61_63_64_65_66","Developed",0,"Northeastern Interior Dry-Mesic Oak Forest",1870,120,68021,13030,61,1577375,4
+"8","13030_61_63_64_65_66_Water","13030_61_63_64_65_66","Water",0,"Northeastern Interior Dry-Mesic Oak Forest",NA,NA,NA,NA,NA,NA,NA
+"9","13030_61_63_64_65_66_UN","13030_61_63_64_65_66","UN",0,"Northeastern Interior Dry-Mesic Oak Forest",1870,6,15,13030,61,1577375,0
+"10","13030_61_63_64_65_66_UE","13030_61_63_64_65_66","UE",0,"Northeastern Interior Dry-Mesic Oak Forest",1870,7,61986,13030,61,1577375,3
+"11","13150_48_53_57_59_61_A","13150_48_53_57_59_61","A",5,"Southern Appalachian Oak Forest",NA,NA,NA,NA,NA,NA,NA
+"12","13150_48_53_57_59_61_B","13150_48_53_57_59_61","B",25,"Southern Appalachian Oak Forest",NA,NA,NA,NA,NA,NA,NA
+"13","13150_48_53_57_59_61_C","13150_48_53_57_59_61","C",36,"Southern Appalachian Oak Forest",NA,NA,NA,NA,NA,NA,NA
+"14","13150_48_53_57_59_61_D","13150_48_53_57_59_61","D",25,"Southern Appalachian Oak Forest",1871,4,3,13150,61,572,0
+"15","13150_48_53_57_59_61_E","13150_48_53_57_59_61","E",9,"Southern Appalachian Oak Forest",1871,5,547,13150,61,572,95
+"16","13150_48_53_57_59_61_Agriculture","13150_48_53_57_59_61","Agriculture",0,"Southern Appalachian Oak Forest",NA,NA,NA,NA,NA,NA,NA
+"17","13150_48_53_57_59_61_Developed","13150_48_53_57_59_61","Developed",0,"Southern Appalachian Oak Forest",1871,120,5,13150,61,572,0
+"18","13150_48_53_57_59_61_Water","13150_48_53_57_59_61","Water",0,"Southern Appalachian Oak Forest",NA,NA,NA,NA,NA,NA,NA
+"19","13150_48_53_57_59_61_UN","13150_48_53_57_59_61","UN",0,"Southern Appalachian Oak Forest",NA,NA,NA,NA,NA,NA,NA
+"20","13150_48_53_57_59_61_UE","13150_48_53_57_59_61","UE",0,"Southern Appalachian Oak Forest",1871,7,17,13150,61,572,2
+"21","13170_57_61_A","13170_57_61","A",16,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,1,16,13170,61,70181,0
+"22","13170_57_61_B","13170_57_61","B",11,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,2,109,13170,61,70181,0
+"23","13170_57_61_C","13170_57_61","C",20,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,3,449,13170,61,70181,0
+"24","13170_57_61_D","13170_57_61","D",26,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,4,2250,13170,61,70181,3
+"25","13170_57_61_E","13170_57_61","E",27,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,5,56924,13170,61,70181,81
+"26","13170_57_61_Agriculture","13170_57_61","Agriculture",0,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,180,2603,13170,61,70181,3
+"27","13170_57_61_Developed","13170_57_61","Developed",0,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,120,3433,13170,61,70181,4
+"28","13170_57_61_Water","13170_57_61","Water",0,"Allegheny-Cumberland Dry Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"29","13170_57_61_UN","13170_57_61","UN",0,"Allegheny-Cumberland Dry Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"30","13170_57_61_UE","13170_57_61","UE",0,"Allegheny-Cumberland Dry Oak Forest and Woodland",1873,7,4397,13170,61,70181,6
+"31","13180_57_59_61_A","13180_57_59_61","A",5,"Southern and Central Appalachian Cove Forest",1874,1,190,13180,61,848870,0
+"32","13180_57_59_61_B","13180_57_59_61","B",26,"Southern and Central Appalachian Cove Forest",1874,2,134,13180,61,848870,0
+"33","13180_57_59_61_C","13180_57_59_61","C",2,"Southern and Central Appalachian Cove Forest",1874,3,5205,13180,61,848870,0
+"34","13180_57_59_61_D","13180_57_59_61","D",4,"Southern and Central Appalachian Cove Forest",1874,4,78574,13180,61,848870,9
+"35","13180_57_59_61_E","13180_57_59_61","E",63,"Southern and Central Appalachian Cove Forest",1874,5,626439,13180,61,848870,73
+"36","13180_57_59_61_Agriculture","13180_57_59_61","Agriculture",0,"Southern and Central Appalachian Cove Forest",1874,180,51134,13180,61,848870,6
+"37","13180_57_59_61_Developed","13180_57_59_61","Developed",0,"Southern and Central Appalachian Cove Forest",1874,120,55515,13180,61,848870,6
+"38","13180_57_59_61_Water","13180_57_59_61","Water",0,"Southern and Central Appalachian Cove Forest",NA,NA,NA,NA,NA,NA,NA
+"39","13180_57_59_61_UN","13180_57_59_61","UN",0,"Southern and Central Appalachian Cove Forest",NA,NA,NA,NA,NA,NA,NA
+"40","13180_57_59_61_UE","13180_57_59_61","UE",0,"Southern and Central Appalachian Cove Forest",1874,7,31679,13180,61,848870,3
+"41","13200_48_57_61_A","13200_48_57_61","A",13,"Central and Southern Appalachian Montane Oak Forest",1875,1,349,13200,61,567500,0
+"42","13200_48_57_61_B","13200_48_57_61","B",16,"Central and Southern Appalachian Montane Oak Forest",1875,2,475,13200,61,567500,0
+"43","13200_48_57_61_C","13200_48_57_61","C",11,"Central and Southern Appalachian Montane Oak Forest",1875,3,2647,13200,61,567500,0
+"44","13200_48_57_61_D","13200_48_57_61","D",18,"Central and Southern Appalachian Montane Oak Forest",1875,4,36673,13200,61,567500,6
+"45","13200_48_57_61_E","13200_48_57_61","E",42,"Central and Southern Appalachian Montane Oak Forest",1875,5,461928,13200,61,567500,81
+"46","13200_48_57_61_Agriculture","13200_48_57_61","Agriculture",0,"Central and Southern Appalachian Montane Oak Forest",1875,180,12535,13200,61,567500,2
+"47","13200_48_57_61_Developed","13200_48_57_61","Developed",0,"Central and Southern Appalachian Montane Oak Forest",1875,120,21943,13200,61,567500,3
+"48","13200_48_57_61_Water","13200_48_57_61","Water",0,"Central and Southern Appalachian Montane Oak Forest",NA,NA,NA,NA,NA,NA,NA
+"49","13200_48_57_61_UN","13200_48_57_61","UN",0,"Central and Southern Appalachian Montane Oak Forest",NA,NA,NA,NA,NA,NA,NA
+"50","13200_48_57_61_UE","13200_48_57_61","UE",0,"Central and Southern Appalachian Montane Oak Forest",1875,7,30950,13200,61,567500,5
+"51","13210_61_63_A","13210_61_63","A",2,"South-Central Interior Mesophytic Forest",1876,1,272,13210,61,48241,0
+"52","13210_61_63_B","13210_61_63","B",8,"South-Central Interior Mesophytic Forest",1876,2,21019,13210,61,48241,43
+"53","13210_61_63_C","13210_61_63","C",5,"South-Central Interior Mesophytic Forest",1876,3,13,13210,61,48241,0
+"54","13210_61_63_D","13210_61_63","D",3,"South-Central Interior Mesophytic Forest",1876,4,3537,13210,61,48241,7
+"55","13210_61_63_E","13210_61_63","E",82,"South-Central Interior Mesophytic Forest",NA,NA,NA,NA,NA,NA,NA
+"56","13210_61_63_Agriculture","13210_61_63","Agriculture",0,"South-Central Interior Mesophytic Forest",1876,180,6890,13210,61,48241,14
+"57","13210_61_63_Developed","13210_61_63","Developed",0,"South-Central Interior Mesophytic Forest",1876,120,8345,13210,61,48241,17
+"58","13210_61_63_Water","13210_61_63","Water",0,"South-Central Interior Mesophytic Forest",NA,NA,NA,NA,NA,NA,NA
+"59","13210_61_63_UN","13210_61_63","UN",0,"South-Central Interior Mesophytic Forest",1876,6,5194,13210,61,48241,10
+"60","13210_61_63_UE","13210_61_63","UE",0,"South-Central Interior Mesophytic Forest",1876,7,2971,13210,61,48241,6
+"61","13400_61_A","13400_61","A",60,"Appalachian Shale Barrens",NA,NA,NA,NA,NA,NA,NA
+"62","13400_61_B","13400_61","B",25,"Appalachian Shale Barrens",NA,NA,NA,NA,NA,NA,NA
+"63","13400_61_C","13400_61","C",15,"Appalachian Shale Barrens",1877,3,10,13400,61,1235,0
+"64","13400_61_D","13400_61","D",NA,"Appalachian Shale Barrens",NA,NA,NA,NA,NA,NA,NA
+"65","13400_61_E","13400_61","E",NA,"Appalachian Shale Barrens",NA,NA,NA,NA,NA,NA,NA
+"66","13400_61_Agriculture","13400_61","Agriculture",0,"Appalachian Shale Barrens",1877,180,1,13400,61,1235,0
+"67","13400_61_Developed","13400_61","Developed",0,"Appalachian Shale Barrens",1877,120,34,13400,61,1235,2
+"68","13400_61_Water","13400_61","Water",0,"Appalachian Shale Barrens",NA,NA,NA,NA,NA,NA,NA
+"69","13400_61_UN","13400_61","UN",0,"Appalachian Shale Barrens",1877,6,1137,13400,61,1235,92
+"70","13400_61_UE","13400_61","UE",0,"Appalachian Shale Barrens",1877,7,53,13400,61,1235,4
+"71","13500_61_A","13500_61","A",17,"Central and Southern Appalachian Spruce-Fir Forest",1878,1,25307,13500,61,2044293,1
+"72","13500_61_B","13500_61","B",14,"Central and Southern Appalachian Spruce-Fir Forest",1878,2,1524095,13500,61,2044293,74
+"73","13500_61_C","13500_61","C",11,"Central and Southern Appalachian Spruce-Fir Forest",1878,3,171045,13500,61,2044293,8
+"74","13500_61_D","13500_61","D",58,"Central and Southern Appalachian Spruce-Fir Forest",1878,4,63041,13500,61,2044293,3
+"75","13500_61_E","13500_61","E",NA,"Central and Southern Appalachian Spruce-Fir Forest",NA,NA,NA,NA,NA,NA,NA
+"76","13500_61_Agriculture","13500_61","Agriculture",0,"Central and Southern Appalachian Spruce-Fir Forest",1878,180,13544,13500,61,2044293,0
+"77","13500_61_Developed","13500_61","Developed",0,"Central and Southern Appalachian Spruce-Fir Forest",1878,120,75900,13500,61,2044293,3
+"78","13500_61_Water","13500_61","Water",0,"Central and Southern Appalachian Spruce-Fir Forest",NA,NA,NA,NA,NA,NA,NA
+"79","13500_61_UN","13500_61","UN",0,"Central and Southern Appalachian Spruce-Fir Forest",1878,6,22740,13500,61,2044293,1
+"80","13500_61_UE","13500_61","UE",0,"Central and Southern Appalachian Spruce-Fir Forest",1878,7,148621,13500,61,2044293,7
+"81","13520_53_54_57_59_60_61_A","13520_53_54_57_59_60_61","A",13,"Southern Appalachian Montane Pine Forest and Woodland",1879,1,3,13520,61,3091,0
+"82","13520_53_54_57_59_60_61_B","13520_53_54_57_59_60_61","B",3,"Southern Appalachian Montane Pine Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"83","13520_53_54_57_59_60_61_C","13520_53_54_57_59_60_61","C",24,"Southern Appalachian Montane Pine Forest and Woodland",1879,3,3,13520,61,3091,0
+"84","13520_53_54_57_59_60_61_D","13520_53_54_57_59_60_61","D",54,"Southern Appalachian Montane Pine Forest and Woodland",1879,4,265,13520,61,3091,8
+"85","13520_53_54_57_59_60_61_E","13520_53_54_57_59_60_61","E",6,"Southern Appalachian Montane Pine Forest and Woodland",1879,5,2081,13520,61,3091,67
+"86","13520_53_54_57_59_60_61_Agriculture","13520_53_54_57_59_60_61","Agriculture",0,"Southern Appalachian Montane Pine Forest and Woodland",1879,180,172,13520,61,3091,5
+"87","13520_53_54_57_59_60_61_Developed","13520_53_54_57_59_60_61","Developed",0,"Southern Appalachian Montane Pine Forest and Woodland",1879,120,57,13520,61,3091,1
+"88","13520_53_54_57_59_60_61_Water","13520_53_54_57_59_60_61","Water",0,"Southern Appalachian Montane Pine Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"89","13520_53_54_57_59_60_61_UN","13520_53_54_57_59_60_61","UN",0,"Southern Appalachian Montane Pine Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"90","13520_53_54_57_59_60_61_UE","13520_53_54_57_59_60_61","UE",0,"Southern Appalachian Montane Pine Forest and Woodland",1879,7,510,13520,61,3091,16
+"91","13690_60_61_63_64_65_66_A","13690_60_61_63_64_65_66","A",11,"Central Appalachian Dry Oak-Pine Forest",1882,1,1398,13690,61,452744,0
+"92","13690_60_61_63_64_65_66_B","13690_60_61_63_64_65_66","B",15,"Central Appalachian Dry Oak-Pine Forest",1882,2,232752,13690,61,452744,51
+"93","13690_60_61_63_64_65_66_C","13690_60_61_63_64_65_66","C",12,"Central Appalachian Dry Oak-Pine Forest",1882,3,165316,13690,61,452744,36
+"94","13690_60_61_63_64_65_66_D","13690_60_61_63_64_65_66","D",42,"Central Appalachian Dry Oak-Pine Forest",1882,4,4217,13690,61,452744,0
+"95","13690_60_61_63_64_65_66_E","13690_60_61_63_64_65_66","E",20,"Central Appalachian Dry Oak-Pine Forest",1882,5,11846,13690,61,452744,2
+"96","13690_60_61_63_64_65_66_Agriculture","13690_60_61_63_64_65_66","Agriculture",0,"Central Appalachian Dry Oak-Pine Forest",1882,180,11701,13690,61,452744,2
+"97","13690_60_61_63_64_65_66_Developed","13690_60_61_63_64_65_66","Developed",0,"Central Appalachian Dry Oak-Pine Forest",1882,120,9739,13690,61,452744,2
+"98","13690_60_61_63_64_65_66_Water","13690_60_61_63_64_65_66","Water",0,"Central Appalachian Dry Oak-Pine Forest",NA,NA,NA,NA,NA,NA,NA
+"99","13690_60_61_63_64_65_66_UN","13690_60_61_63_64_65_66","UN",0,"Central Appalachian Dry Oak-Pine Forest",1882,6,54,13690,61,452744,0
+"100","13690_60_61_63_64_65_66_UE","13690_60_61_63_64_65_66","UE",0,"Central Appalachian Dry Oak-Pine Forest",1882,7,15721,13690,61,452744,3
+"101","13700_53_61_62_A","13700_53_61_62","A",9,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,1,1315,13700,61,1340287,0
+"102","13700_53_61_62_B","13700_53_61_62","B",14,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,2,898304,13700,61,1340287,67
+"103","13700_53_61_62_C","13700_53_61_62","C",9,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,3,115506,13700,61,1340287,8
+"104","13700_53_61_62_D","13700_53_61_62","D",68,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,4,113324,13700,61,1340287,8
+"105","13700_53_61_62_E","13700_53_61_62","E",NA,"Appalachian (Hemlock-)Northern Hardwood Forest",NA,NA,NA,NA,NA,NA,NA
+"106","13700_53_61_62_Agriculture","13700_53_61_62","Agriculture",0,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,180,40170,13700,61,1340287,2
+"107","13700_53_61_62_Developed","13700_53_61_62","Developed",0,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,120,52736,13700,61,1340287,3
+"108","13700_53_61_62_Water","13700_53_61_62","Water",0,"Appalachian (Hemlock-)Northern Hardwood Forest",NA,NA,NA,NA,NA,NA,NA
+"109","13700_53_61_62_UN","13700_53_61_62","UN",0,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,6,11795,13700,61,1340287,0
+"110","13700_53_61_62_UE","13700_53_61_62","UE",0,"Appalachian (Hemlock-)Northern Hardwood Forest",1883,7,107137,13700,61,1340287,7
+"111","13760_48_53_57_61_A","13760_48_53_57_61","A",8,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",NA,NA,NA,NA,NA,NA,NA
+"112","13760_48_53_57_61_B","13760_48_53_57_61","B",5,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,2,5,13760,61,7449,0
+"113","13760_48_53_57_61_C","13760_48_53_57_61","C",22,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,3,8,13760,61,7449,0
+"114","13760_48_53_57_61_D","13760_48_53_57_61","D",50,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,4,181,13760,61,7449,2
+"115","13760_48_53_57_61_E","13760_48_53_57_61","E",15,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,5,3158,13760,61,7449,42
+"116","13760_48_53_57_61_Agriculture","13760_48_53_57_61","Agriculture",0,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,180,939,13760,61,7449,12
+"117","13760_48_53_57_61_Developed","13760_48_53_57_61","Developed",0,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,120,477,13760,61,7449,6
+"118","13760_48_53_57_61_Water","13760_48_53_57_61","Water",0,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",NA,NA,NA,NA,NA,NA,NA
+"119","13760_48_53_57_61_UN","13760_48_53_57_61","UN",0,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,6,2346,13760,61,7449,31
+"120","13760_48_53_57_61_UE","13760_48_53_57_61","UE",0,"Southern Ridge and Valley/Cumberland Dry Calcareous Forest",1884,7,335,13760,61,7449,4
+"121","13770_60_61_63_64_65_66_A","13770_60_61_63_64_65_66","A",3,"Central Appalachian Pine-Oak Rocky Woodland",NA,NA,NA,NA,NA,NA,NA
+"122","13770_60_61_63_64_65_66_B","13770_60_61_63_64_65_66","B",7,"Central Appalachian Pine-Oak Rocky Woodland",1885,2,132,13770,61,81708,0
+"123","13770_60_61_63_64_65_66_C","13770_60_61_63_64_65_66","C",74,"Central Appalachian Pine-Oak Rocky Woodland",1885,3,25641,13770,61,81708,31
+"124","13770_60_61_63_64_65_66_D","13770_60_61_63_64_65_66","D",16,"Central Appalachian Pine-Oak Rocky Woodland",1885,4,298,13770,61,81708,0
+"125","13770_60_61_63_64_65_66_E","13770_60_61_63_64_65_66","E",NA,"Central Appalachian Pine-Oak Rocky Woodland",NA,NA,NA,NA,NA,NA,NA
+"126","13770_60_61_63_64_65_66_Agriculture","13770_60_61_63_64_65_66","Agriculture",0,"Central Appalachian Pine-Oak Rocky Woodland",1885,180,335,13770,61,81708,0
+"127","13770_60_61_63_64_65_66_Developed","13770_60_61_63_64_65_66","Developed",0,"Central Appalachian Pine-Oak Rocky Woodland",1885,120,1817,13770,61,81708,2
+"128","13770_60_61_63_64_65_66_Water","13770_60_61_63_64_65_66","Water",0,"Central Appalachian Pine-Oak Rocky Woodland",NA,NA,NA,NA,NA,NA,NA
+"129","13770_60_61_63_64_65_66_UN","13770_60_61_63_64_65_66","UN",0,"Central Appalachian Pine-Oak Rocky Woodland",1885,6,50796,13770,61,81708,62
+"130","13770_60_61_63_64_65_66_UE","13770_60_61_63_64_65_66","UE",0,"Central Appalachian Pine-Oak Rocky Woodland",1885,7,2689,13770,61,81708,3
+"131","14000_60_61_A","14000_60_61","A",53,"Central Appalachian Alkaline Glade and Woodland",NA,NA,NA,NA,NA,NA,NA
+"132","14000_60_61_B","14000_60_61","B",27,"Central Appalachian Alkaline Glade and Woodland",NA,NA,NA,NA,NA,NA,NA
+"133","14000_60_61_C","14000_60_61","C",7,"Central Appalachian Alkaline Glade and Woodland",NA,NA,NA,NA,NA,NA,NA
+"134","14000_60_61_D","14000_60_61","D",13,"Central Appalachian Alkaline Glade and Woodland",1886,4,2954,14000,61,5050,58
+"135","14000_60_61_E","14000_60_61","E",NA,"Central Appalachian Alkaline Glade and Woodland",NA,NA,NA,NA,NA,NA,NA
+"136","14000_60_61_Agriculture","14000_60_61","Agriculture",0,"Central Appalachian Alkaline Glade and Woodland",1886,180,1140,14000,61,5050,22
+"137","14000_60_61_Developed","14000_60_61","Developed",0,"Central Appalachian Alkaline Glade and Woodland",1886,120,116,14000,61,5050,2
+"138","14000_60_61_Water","14000_60_61","Water",0,"Central Appalachian Alkaline Glade and Woodland",NA,NA,NA,NA,NA,NA,NA
+"139","14000_60_61_UN","14000_60_61","UN",0,"Central Appalachian Alkaline Glade and Woodland",1886,6,586,14000,61,5050,11
+"140","14000_60_61_UE","14000_60_61","UE",0,"Central Appalachian Alkaline Glade and Woodland",1886,7,254,14000,61,5050,5
+"141","14710_47_48_53_54_57_59_60_61_63_A","14710_47_48_53_54_57_59_60_61_63","A",9,"Central Interior and Appalachian Floodplain Systems",1887,1,219,14710,61,71303,0
+"142","14710_47_48_53_54_57_59_60_61_63_B","14710_47_48_53_54_57_59_60_61_63","B",25,"Central Interior and Appalachian Floodplain Systems",1887,2,4456,14710,61,71303,6
+"143","14710_47_48_53_54_57_59_60_61_63_C","14710_47_48_53_54_57_59_60_61_63","C",6,"Central Interior and Appalachian Floodplain Systems",1887,3,15225,14710,61,71303,21
+"144","14710_47_48_53_54_57_59_60_61_63_D","14710_47_48_53_54_57_59_60_61_63","D",12,"Central Interior and Appalachian Floodplain Systems",1887,4,239,14710,61,71303,0
+"145","14710_47_48_53_54_57_59_60_61_63_E","14710_47_48_53_54_57_59_60_61_63","E",48,"Central Interior and Appalachian Floodplain Systems",1887,5,265,14710,61,71303,0
+"146","14710_47_48_53_54_57_59_60_61_63_Agriculture","14710_47_48_53_54_57_59_60_61_63","Agriculture",0,"Central Interior and Appalachian Floodplain Systems",1887,180,33477,14710,61,71303,46
+"147","14710_47_48_53_54_57_59_60_61_63_Developed","14710_47_48_53_54_57_59_60_61_63","Developed",0,"Central Interior and Appalachian Floodplain Systems",1887,120,9254,14710,61,71303,12
+"148","14710_47_48_53_54_57_59_60_61_63_Water","14710_47_48_53_54_57_59_60_61_63","Water",0,"Central Interior and Appalachian Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"149","14710_47_48_53_54_57_59_60_61_63_UN","14710_47_48_53_54_57_59_60_61_63","UN",0,"Central Interior and Appalachian Floodplain Systems",1887,6,5372,14710,61,71303,7
+"150","14710_47_48_53_54_57_59_60_61_63_UE","14710_47_48_53_54_57_59_60_61_63","UE",0,"Central Interior and Appalachian Floodplain Systems",1887,7,2796,14710,61,71303,3
+"151","14720_61_62_63_A","14720_61_62_63","A",16,"Central Interior and Appalachian Riparian Systems",1888,1,4703,14720,61,485361,0
+"152","14720_61_62_63_B","14720_61_62_63","B",22,"Central Interior and Appalachian Riparian Systems",1888,2,277518,14720,61,485361,57
+"153","14720_61_62_63_C","14720_61_62_63","C",13,"Central Interior and Appalachian Riparian Systems",1888,3,63636,14720,61,485361,13
+"154","14720_61_62_63_D","14720_61_62_63","D",39,"Central Interior and Appalachian Riparian Systems",1888,4,318,14720,61,485361,0
+"155","14720_61_62_63_E","14720_61_62_63","E",10,"Central Interior and Appalachian Riparian Systems",1888,5,30477,14720,61,485361,6
+"156","14720_61_62_63_Agriculture","14720_61_62_63","Agriculture",0,"Central Interior and Appalachian Riparian Systems",1888,180,40801,14720,61,485361,8
+"157","14720_61_62_63_Developed","14720_61_62_63","Developed",0,"Central Interior and Appalachian Riparian Systems",1888,120,46707,14720,61,485361,9
+"158","14720_61_62_63_Water","14720_61_62_63","Water",0,"Central Interior and Appalachian Riparian Systems",NA,NA,NA,NA,NA,NA,NA
+"159","14720_61_62_63_UN","14720_61_62_63","UN",0,"Central Interior and Appalachian Riparian Systems",NA,NA,NA,NA,NA,NA,NA
+"160","14720_61_62_63_UE","14720_61_62_63","UE",0,"Central Interior and Appalachian Riparian Systems",1888,7,21201,14720,61,485361,4
+"161","14790_60_61_63_64_65_66_A","14790_60_61_63_64_65_66","A",24,"Central Interior and Appalachian Swamp Systems",1889,1,150,14790,61,22620,0
+"162","14790_60_61_63_64_65_66_B","14790_60_61_63_64_65_66","B",36,"Central Interior and Appalachian Swamp Systems",1889,2,2665,14790,61,22620,11
+"163","14790_60_61_63_64_65_66_C","14790_60_61_63_64_65_66","C",40,"Central Interior and Appalachian Swamp Systems",1889,3,13767,14790,61,22620,60
+"164","14790_60_61_63_64_65_66_D","14790_60_61_63_64_65_66","D",NA,"Central Interior and Appalachian Swamp Systems",NA,NA,NA,NA,NA,NA,NA
+"165","14790_60_61_63_64_65_66_E","14790_60_61_63_64_65_66","E",NA,"Central Interior and Appalachian Swamp Systems",NA,NA,NA,NA,NA,NA,NA
+"166","14790_60_61_63_64_65_66_Agriculture","14790_60_61_63_64_65_66","Agriculture",0,"Central Interior and Appalachian Swamp Systems",1889,180,1274,14790,61,22620,5
+"167","14790_60_61_63_64_65_66_Developed","14790_60_61_63_64_65_66","Developed",0,"Central Interior and Appalachian Swamp Systems",1889,120,1263,14790,61,22620,5
+"168","14790_60_61_63_64_65_66_Water","14790_60_61_63_64_65_66","Water",0,"Central Interior and Appalachian Swamp Systems",NA,NA,NA,NA,NA,NA,NA
+"169","14790_60_61_63_64_65_66_UN","14790_60_61_63_64_65_66","UN",0,"Central Interior and Appalachian Swamp Systems",1889,6,1946,14790,61,22620,8
+"170","14790_60_61_63_64_65_66_UE","14790_60_61_63_64_65_66","UE",0,"Central Interior and Appalachian Swamp Systems",1889,7,1555,14790,61,22620,6

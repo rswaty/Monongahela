@@ -1,0 +1,74 @@
+---
+title: "Monongahela National Forest LANDFIRE Demo, 2023"
+author: "Randy Swaty with substantial code contributions from Myles Walimaa"
+---
+
+## Goals of this quick demonstration
+
+In general we will use [LANDFIRE](https://landfire.gov/) products to:
+
+1. Map and summarize past and present ecosystems and ecosystem conditions
+2. Explore historical disturbance regimes
+3. Summarize patterns of change and management opportunities
+4. Present maps of landscape-scale connectivity and resilient sites
+
+Outputs presented here are the tip of the iceberg of what can be done with these datasets and are intended to help begin brainstorming about appropriate questions that could be explored collaboratively.
+
+
+## Interacting with this web report
+A few notes about using this report:
+
+* As of February 7, 2023 there has been no QAQC.  This is a demo only.
+* This platform is web-hosted so you can simply share a link with collaborators for their review.  https://rswaty.github.io/hiawatha2023/
+* Maps and charts are intended to represent general patterns, and are almost always limited to most common types (e.g., ecosystems).  You can use the "zoom" tool to take a closer look.
+* All maps, input datasets and further assistance can be obtained by contacting the author, [Randy Swaty](mailto:rswaty@tnc.org).
+
+
+## Location of this assessment
+
+Monongahela National Forest Boundary (file shared by Katy Shallows of The Nature Conservancy).  
+
+<br>
+
+```{r libraries, message=FALSE, warning=FALSE, include=FALSE}
+
+library(foreign)
+library(sf)
+library(terra)
+library(tidyverse)
+library(raster)
+
+
+```
+
+
+```{r read shapefile, message=FALSE, warning=FALSE, include=FALSE}
+#  read shape
+shp <- st_read("data/mon_forest_boundary_1009.shp") %>% 
+  st_transform(crs = 5070) %>%
+  st_union() %>%
+  st_sf()
+```
+
+```{r locator map, message=FALSE, warning=FALSE, echo=FALSE}
+library(tmap)
+
+# toggle tmap mode to interactive viewing
+tmap_mode("view")
+
+# read area of interest shapefile
+# shp <- st_read("./DATA/gmnf_ownership.shp") %>%
+#   st_transform(5072) %>%
+#   st_union() %>%
+#   st_sf()
+
+# create a quick interactive map
+quickmap <- qtm(shp, borders = "darkgreen",  check.and.fix = TRUE)
+
+quickmap
+
+
+
+```
+
+
