@@ -15,15 +15,7 @@ library(tidyverse)
 Outputs on this page compare "Past" conditions with "Present" conditions.  Results here are intended for exploration and illumination of issues to explore further.  As noted on the "Present" page there are differences in the classification scheme so direct comparisons should be viewed with caution.  
 
 ## Summary
-There has not been broad whole conversion of ecosystems from one to another (explore circular chord diagram below).  However, due to harvests, fire suppression and other management actions (in addtion to changes in natural processes) there have been some notable changes in succession classes (see "Succession classes for most dominant Biophysical Settings") section below:
-
-* Perhaps the most interesting broad-scale change is conversion of 'conifer' types to 'hardwood', presumably due to fire suppression.
-* Some ecosystems have sizable over/under-representation of successin classes on the landscape today compared to modeled historic.  For example:
-    * Laurentian-Acadian Northern Hardwoods Forest - Hemlock is missing succession class D
-    * Classes A-C under represented in the Boreal Jack Pine-Black Spruce Forest - Pine Barrens
-    * Class A and B under reprented in the Boreal Acidic Peatland Systems
-    
-These differences may or may not be 'real' on the ground and/or may not be a management priority.  
+ 
 
 ## Looking at broad changes, vegetation conversion
 
