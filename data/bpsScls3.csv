@@ -1,0 +1,31 @@
+model_label,Model_Code,refLabel,refPercent,BpS_Name,Var1,Var2,Freq,BPS_CODE,ZONE,total_count,currentPercent
+13030_61_63_64_65_66_A,13030_61_63_64_65_66,A-Herbaceous,4,Northeastern Interior Dry-Mesic Oak Forest,1870,1,223,13030,61,1577375,0
+13030_61_63_64_65_66_B,13030_61_63_64_65_66,B-Oak regeneration,22,Northeastern Interior Dry-Mesic Oak Forest,1870,2,6,13030,61,1577375,0
+13030_61_63_64_65_66_C,13030_61_63_64_65_66,C-Oak savanna and woodlands,49,Northeastern Interior Dry-Mesic Oak Forest,1870,3,164334,13030,61,1577375,10
+13030_61_63_64_65_66_D,13030_61_63_64_65_66,D-Oak and pine forest,18,Northeastern Interior Dry-Mesic Oak Forest,1870,4,469409,13030,61,1577375,29
+13030_61_63_64_65_66_E,13030_61_63_64_65_66,E-Mixed mesophytic forests,7,Northeastern Interior Dry-Mesic Oak Forest,1870,5,684896,13030,61,1577375,43
+13030_61_63_64_65_66_Agriculture,13030_61_63_64_65_66,Agriculture,0,Northeastern Interior Dry-Mesic Oak Forest,1870,180,128485,13030,61,1577375,8
+13030_61_63_64_65_66_Developed,13030_61_63_64_65_66,Developed,0,Northeastern Interior Dry-Mesic Oak Forest,1870,120,68021,13030,61,1577375,4
+13030_61_63_64_65_66_Water,13030_61_63_64_65_66,Water,0,Northeastern Interior Dry-Mesic Oak Forest,NA,NA,NA,NA,NA,NA,NA
+13030_61_63_64_65_66_UN,13030_61_63_64_65_66,Uncharacteristic native,0,Northeastern Interior Dry-Mesic Oak Forest,1870,6,15,13030,61,1577375,0
+13030_61_63_64_65_66_UE,13030_61_63_64_65_66,Uncharacteristic exotic,0,Northeastern Interior Dry-Mesic Oak Forest,1870,7,61986,13030,61,1577375,3
+13200_48_57_61_A,13200_48_57_61,A-Oak regeneration,13,Central and Southern Appalachian Montane Oak Forest,1875,1,349,13200,61,567500,0
+13200_48_57_61_B,13200_48_57_61,B-Med. height closed canopy deciduous,16,Central and Southern Appalachian Montane Oak Forest,1875,2,475,13200,61,567500,0
+13200_48_57_61_C,13200_48_57_61,C-Med. height open canopy deciduous,11,Central and Southern Appalachian Montane Oak Forest,1875,3,2647,13200,61,567500,0
+13200_48_57_61_D,13200_48_57_61,D-Mature open canopy deciduous,18,Central and Southern Appalachian Montane Oak Forest,1875,4,36673,13200,61,567500,6
+13200_48_57_61_E,13200_48_57_61,E-Mature closed canopy deciduous,42,Central and Southern Appalachian Montane Oak Forest,1875,5,461928,13200,61,567500,81
+13200_48_57_61_Agriculture,13200_48_57_61,Agriculture,0,Central and Southern Appalachian Montane Oak Forest,1875,180,12535,13200,61,567500,2
+13200_48_57_61_Developed,13200_48_57_61,Developed,0,Central and Southern Appalachian Montane Oak Forest,1875,120,21943,13200,61,567500,3
+13200_48_57_61_Water,13200_48_57_61,Water,0,Central and Southern Appalachian Montane Oak Forest,NA,NA,NA,NA,NA,NA,NA
+13200_48_57_61_UN,13200_48_57_61,Uncharacteristic native,0,Central and Southern Appalachian Montane Oak Forest,NA,NA,NA,NA,NA,NA,NA
+13200_48_57_61_UE,13200_48_57_61,Uncharacteristic exotic,0,Central and Southern Appalachian Montane Oak Forest,1875,7,30950,13200,61,567500,5
+13690_60_61_63_64_65_66_A,13690_60_61_63_64_65_66,A-Oak regeneration,11,Central Appalachian Dry Oak-Pine Forest,1882,1,1398,13690,61,452744,0
+13690_60_61_63_64_65_66_B,13690_60_61_63_64_65_66,B-Med. height closed canopy deciduous,15,Central Appalachian Dry Oak-Pine Forest,1882,2,232752,13690,61,452744,51
+13690_60_61_63_64_65_66_C,13690_60_61_63_64_65_66,C-Med. height open canopy deciduous,12,Central Appalachian Dry Oak-Pine Forest,1882,3,165316,13690,61,452744,36
+13690_60_61_63_64_65_66_D,13690_60_61_63_64_65_66,D-Mature open canopy deciduous,42,Central Appalachian Dry Oak-Pine Forest,1882,4,4217,13690,61,452744,0
+13690_60_61_63_64_65_66_E,13690_60_61_63_64_65_66,E-mature closed canopy deciduous/conifers,20,Central Appalachian Dry Oak-Pine Forest,1882,5,11846,13690,61,452744,2
+13690_60_61_63_64_65_66_Agriculture,13690_60_61_63_64_65_66,Agriculture,0,Central Appalachian Dry Oak-Pine Forest,1882,180,11701,13690,61,452744,2
+13690_60_61_63_64_65_66_Developed,13690_60_61_63_64_65_66,Developed,0,Central Appalachian Dry Oak-Pine Forest,1882,120,9739,13690,61,452744,2
+13690_60_61_63_64_65_66_Water,13690_60_61_63_64_65_66,Water,0,Central Appalachian Dry Oak-Pine Forest,NA,NA,NA,NA,NA,NA,NA
+13690_60_61_63_64_65_66_UN,13690_60_61_63_64_65_66,Uncharacteristic native,0,Central Appalachian Dry Oak-Pine Forest,1882,6,54,13690,61,452744,0
+13690_60_61_63_64_65_66_UE,13690_60_61_63_64_65_66,Uncharacteristic exotic,0,Central Appalachian Dry Oak-Pine Forest,1882,7,15721,13690,61,452744,3
