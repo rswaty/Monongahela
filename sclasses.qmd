@@ -169,5 +169,88 @@ Summary of succession classes past and present: Central and Southern Appalachian
 
 *Please read full description.  Succession class labels above greatly simplified.*
 
+## Central Appalachian Dry Oak-Pine Forest
+
+```{r cadop setup, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+
+bps_scls_3 <- read.csv("data/bpsScls3.csv") %>%
+  group_by(Var1) %>%
+  mutate(total.count = sum(Freq)) %>%
+  ungroup() %>%
+  dplyr::filter(dense_rank(desc(total.count)) < 7) %>%
+  dplyr::select(c("BpS_Name", "refLabel",  "currentPercent", "refPercent")) %>%
+  pivot_longer(
+    cols = c(`refPercent`, `currentPercent`), 
+    names_to = "refCur", 
+    values_to = "Percent"
+  )
+
+
+# order classes
+bps_scls_3$refLabel <- factor(bps_scls_3$refLabel, levels= c(
+  'Developed',
+  'Agriculture',
+  'Uncharacteristic exotic',
+  'Uncharacteristic native',
+  'E-mature closed canopy deciduous/conifers',
+  'D-Mature open canopy deciduous',
+  'C-Med. height open canopy deciduous',
+  'B-Med. height closed canopy deciduous',
+  'A-Oak regeneration'
+))
+
+# reverse
+factor(bps_scls_3$refLabel, levels = rev(levels(bps_scls_3$refLabel)))
+
+```
+
+
+
+
+
+```{r cadop chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=9}
+
+
+
+sclasplot <-
+  ggplot(bps_scls_3, aes(fill=factor(refCur), y=Percent, x=refLabel)) + 
+  geom_col(width = 0.8, position = position_dodge()) +
+  coord_flip() +
+  scale_x_discrete(limits = (levels(bps_scls_3$refLabel))) +
+  labs(
+    title = "Succession Classes past and present",
+    caption = "\nData from landfire.gov.",
+    x = "",
+    y = "Percent")+
+  theme_minimal(base_size = 14)+
+  theme(plot.caption = element_text(hjust = 0, face= "italic"), #Default is hjust=1
+        plot.title.position = "plot", #NEW parameter. Apply for subtitle too.
+        plot.caption.position =  "plot") +
+  scale_fill_manual(values = c("#3d4740", "#32a852" ), # present (grey), historical (green)
+                    name = " ", 
+                    labels = c("Present",
+                               "Past")) +
+  theme(panel.spacing = unit(.05, "lines"))
+
+
+sclasplotCADOP <- sclasplot %+% subset(bps_scls_3, BpS_Name %in% c("Central Appalachian Dry Oak-Pine Forest"))
+
+
+sclasplotCADOP
+```
+
+Summary of succession classes past and present: Central Appalachian Dry Oak-Pine Forest
+
+* The Oak-regeneration and Mature classes are mapped by LANDFIRE as missing on the landscape today. HIstorically those two classes covered roughly 12% and 42% historically
+* American Chestnut was an important part of this BpS (and possibly others).
+* There is also an underrepresentation of the E-mature closed canopy deciduous/conifers class which is noted to be diverse in the description.
+
+
+**Download full description [here](https://github.com/rswaty/Monongahela/raw/main/assets/13690_60_61_63_64_65_66.docx)**
+
+*Please read full description.  Succession class labels above greatly simplified.*
+
+
+
 
 

@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  preview: 
+    watch-inputs: false
 
 website:
   title: "LANDFIRE-Powered Landscape Assessment"
