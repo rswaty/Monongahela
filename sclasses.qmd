@@ -4,6 +4,18 @@ title: "Succession classes"
 
 ```{r setup, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 library(tidyverse)
+```
+
+
+Here we explore succession class over/under representation for 3 fire-dependent Biophysical Settings (BpS).  Each section will include:
+
+* Chart of succession classes
+* Quick summary
+* Link to full BpS description
+
+## Northeastern Interior Dry-Mesic Oak Forest
+
+```{r dmof setup, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 
 bps_scls_3 <- read.csv("data/bpsScls3.csv") %>%
   group_by(Var1) %>%
@@ -17,38 +29,24 @@ bps_scls_3 <- read.csv("data/bpsScls3.csv") %>%
     values_to = "Percent"
   )
 
+
 # order classes
 bps_scls_3$refLabel <- factor(bps_scls_3$refLabel, levels= c(
   'Developed',
   'Agriculture',
   'Uncharacteristic exotic',
   'Uncharacteristic native',
-  'E-Mature closed canopy deciduous',
-  'E-Mature closed canopy deciduous/conifers',
   'E-Mixed mesophytic forests',
-  'D-Mature open canopy deciduous',
   'D-Oak and pine forest',
-  'C-Med. height open canopy deciduous',
   'C-Oak savanna and woodlands',
-  'B-Med. height closed canopy deciduous',
   'B-Oak regeneration',
-  'A-Oak regeneration',
   'A-Herbaceous'
 ))
 
 # reverse
 factor(bps_scls_3$refLabel, levels = rev(levels(bps_scls_3$refLabel)))
-
 ```
 
-
-Here we explore succession class over/under representation for 3 fire-dependent Biophysical Settings (BpS).  Each section will include:
-
-* Chart of succession classes
-* Quick summary
-* Link to full BpS description
-
-## Northeastern Interior Dry-Mesic Oak Forest
 
 ```{r dmof chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=9}
 
@@ -60,7 +58,6 @@ sclasplot <-
   scale_x_discrete(limits = (levels(bps_scls_3$refLabel))) +
   labs(
     title = "Succession Classes past and present",
-    subtitle = "All possible succession class labels listed. Not all succession classes present in all BpSs",
     caption = "\nData from landfire.gov.",
     x = "",
     y = "Percent")+
@@ -84,4 +81,93 @@ sclasplotDMO
 
 Summary of succession classes past and present: Northeastern Interior Dry-Mesic Oak Forest
 
-* 
+* Historically the Oak-Savanna and Woodlands would have been dominant, occupying almost 50% of this BpS, followed by the Oak and Pine Forest succession class at almost 30%.  
+* The dominant succession classes were maintained by frequent low-severity fires.
+* Today this BpS is dominated by the Mixed Mesophytic class at ~45%
+
+**Download full description [here](https://github.com/rswaty/Monongahela/raw/main/assets/13030_61_63_64_65_66.docx)**
+
+*Please read full description.  Succession class labels above greatly simplified.*
+
+## Central and Southern Appalachian Montane Oak Forest
+
+```{r camof setup, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+
+bps_scls_3 <- read.csv("data/bpsScls3.csv") %>%
+  group_by(Var1) %>%
+  mutate(total.count = sum(Freq)) %>%
+  ungroup() %>%
+  dplyr::filter(dense_rank(desc(total.count)) < 7) %>%
+  dplyr::select(c("BpS_Name", "refLabel",  "currentPercent", "refPercent")) %>%
+  pivot_longer(
+    cols = c(`refPercent`, `currentPercent`), 
+    names_to = "refCur", 
+    values_to = "Percent"
+  )
+
+
+# order classes
+bps_scls_3$refLabel <- factor(bps_scls_3$refLabel, levels= c(
+  'Developed',
+  'Agriculture',
+  'Uncharacteristic exotic',
+  'Uncharacteristic native',
+  'E-Mature closed canopy deciduous',
+  'D-Mature open canopy deciduous',
+  'C-Med. height open canopy deciduous',
+  'B-Med. height closed canopy deciduous',
+  'A-Oak regeneration'
+))
+
+# reverse
+factor(bps_scls_3$refLabel, levels = rev(levels(bps_scls_3$refLabel)))
+
+```
+
+
+
+
+
+```{r camof chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=9}
+
+
+
+sclasplot <-
+  ggplot(bps_scls_3, aes(fill=factor(refCur), y=Percent, x=refLabel)) + 
+  geom_col(width = 0.8, position = position_dodge()) +
+  coord_flip() +
+  scale_x_discrete(limits = (levels(bps_scls_3$refLabel))) +
+  labs(
+    title = "Succession Classes past and present",
+    caption = "\nData from landfire.gov.",
+    x = "",
+    y = "Percent")+
+  theme_minimal(base_size = 14)+
+  theme(plot.caption = element_text(hjust = 0, face= "italic"), #Default is hjust=1
+        plot.title.position = "plot", #NEW parameter. Apply for subtitle too.
+        plot.caption.position =  "plot") +
+  scale_fill_manual(values = c("#3d4740", "#32a852" ), # present (grey), historical (green)
+                    name = " ", 
+                    labels = c("Present",
+                               "Past")) +
+  theme(panel.spacing = unit(.05, "lines"))
+
+
+sclasplotCAMOF <- sclasplot %+% subset(bps_scls_3, BpS_Name %in% c("Central and Southern Appalachian Montane Oak Forest"))
+
+
+sclasplotCAMOF
+```
+
+Summary of succession classes past and present: Central and Southern Appalachian Montane Oak Forest
+
+* Historically the more fire-dependent succession classes were dominant, cumulatively representing ~60% of this BpS.   
+* LANDFIRE data suggests that classes A, B and C are missing on the landscape today.
+* Today this BpS is dominated by the Mature closed canopy deciduous class at > 80%
+
+**Download full description [here](https://github.com/rswaty/Monongahela/raw/main/assets/13200_48_57_61.docx)**
+
+*Please read full description.  Succession class labels above greatly simplified.*
+
+
+
