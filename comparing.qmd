@@ -20,6 +20,7 @@ Outputs on this page compare "Past" conditions with "Present" conditions.  Resul
 ## Looking at broad changes, vegetation conversion
 
 This interactive 'chord' diagram allows you to explore changes on the landscape.  To use:
+
 * Hover over the outer bands to see connections.  For example, if you over over the dark green outer band of the "Past Conifer" group you can see that some is now mapped as converted, some hardwood, etc., and that the majority is still mapped as conifer.
 * Alternatively, if you hover over the orange outer band of "Hardwood" you can see what the present extent of hardwoods vegetation was historically.
 * The popups contain acres for the band.
@@ -150,7 +151,7 @@ sclasplot
 ```
 
 
-## Canpy cover and pyrophic sites: Focus on NE Monongahela
+## Canopy cover and pyrophic sites: Focus on NE Monongahela
 
 In the chart below LANDFIRE Existing Vegetation Cover was clipped to pyrophilic sites, "fire_score" values 1 and 2 (data by Melissa Thomas-Van Gundy and Greg Nowacki, provided by Thomas-Van Gundy.)  Cover data was classified and presented over a grey background for clarity.  There were no 0-30% canopy cover pixels found in mapped area.  
 
