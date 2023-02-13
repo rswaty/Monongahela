@@ -150,3 +150,8 @@ sclasplot
 ```
 
 
+## Canpy cover and pyrophic sites: Focus on NE Monongahela
+
+In the chart below LANDFIRE Existing Vegetation Cover was clipped to pyrophilic sites, "fire_score" values 1 and 2 (data by Melissa Thomas-Van Gundy and Greg Nowacki, provided by Thomas-Van Gundy.)  Cover data was classified and presented over a grey background for clarity.  There were no 0-30% canopy cover pixels found in mapped area.  
+
+![](images/pyro_evc.jpg){width=100%}
